@@ -1,4 +1,4 @@
-# Leo 🧑🏻‍💻 ![](https://visitor-badge.laobi.icu/badge?page_id=notquiteleo.readme) [![wakatime](https://wakatime.com/badge/user/9213dc96-df0d-4e66-b0bb-50f9e04e988c.svg)](https://wakatime.com/@9213dc96-df0d-4e66-b0bb-50f9e04e988c)
+# Leo 🧑🏻‍💻 ![](https://visitor-badge.laobi.icu/badge?page_id=notquiteleo.readme) [![wakatime](https://wakatime.com/badge/user/8673219b-b115-4bd6-9074-2a7f1af0d5a8.svg)](https://wakatime.com/@8673219b-b115-4bd6-9074-2a7f1af0d5a8) [![github](https://img.shields.io/github/followers/notquiteleo?logo=github&style=plastic)](https://github.com/notquiteleo?tab=followers)
 
 <picture>
   <source
@@ -12,7 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=notquiteleo&show_icons=true" align=right />
 </picture>
 
-Leo is a beginner who is passionate about exploring new things in full-stack development. <!-- Currently, he is a newcomer to the workforce and is located in Shanghai.-->
+Leo is a beginner who is passionate about exploring new things in full-stack development. Currently, he is a newcomer to the workforce and is located in Shenzhen.
 
 In the developer field, he often actively participates in GitHub and aspires to become a freelancer.
 
@@ -80,6 +80,10 @@ He has the following skills:
   <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
 </p>
 
+**Recent Writing...**
+
+<ul><li><span>9/06/23 - <a href=https://github.com/iamtomas/note/issues>笔记</a></span></li></ul>
+
 <!-- <p align="center">
   <a href="https://github.com/surmon-china/README.md/tree/main/templates/github-top-languages#gh-dark-mode-only">
     <img src="https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=innei&props.theme=dark&props.background=transparent&props.count=12&props.columns=4&props.columnGap=66&props.legendSize=6&svg.width=846&svg.height=188">
@@ -119,3 +123,4 @@ He has the following skills:
 
 <p align=center><strong>お可愛いこと。</strong></p>
 <p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：9/2/23, 8:02 AM<br>下一次刷新：9/3/23, 8:02 AM</p> -->
+
