@@ -84,7 +84,8 @@ He has the following skills:
 
 **Recent Writing...**
 
-<ul><li><span>9/06/23 - <a href=https://github.com/iamtomas/note/issues>笔记</a></span></li></ul>
+<ul><li><span>11/06/24 - <a href=https://github.com/iamtomas/note/issues>essay</a></span></li></ul>
+<ul><li><span>09/06/23 - <a href=https://github.com/iamtomas/note/issues>note</a></span></li></ul>
 
 <!-- <p align="center">
   <a href="https://github.com/surmon-china/README.md/tree/main/templates/github-top-languages#gh-dark-mode-only">
